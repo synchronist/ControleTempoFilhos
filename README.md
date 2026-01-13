@@ -1,5 +1,6 @@
 # ⏱️ Controle de Tempo dos Filhos
-
+A rotina com as crianças tá puxada? Criei um windows forms simples pra ter controle das telas das crianças, por aqui é puxado, são 3 meninos, 2 gamers e 1 neném aspirante a gamer, e por aqui essa solução ajudou muito, então nada mais justo que compartilhar né?
+Aqui vai:
 Aplicação **Windows Forms moderna (.NET 8)** para controle de tempo de uso de **jogos e telas** de crianças, com contagem regressiva, alerta sonoro e visual moderno.
 
 Projeto pensado para uso **doméstico**, simples e direto, sem dependências externas.
