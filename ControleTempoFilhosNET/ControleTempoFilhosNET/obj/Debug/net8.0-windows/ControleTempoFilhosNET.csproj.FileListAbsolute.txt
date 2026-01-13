@@ -1,0 +1,17 @@
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\bin\Debug\net8.0-windows\ControleTempoFilhosNET.exe
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\bin\Debug\net8.0-windows\ControleTempoFilhosNET.deps.json
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\bin\Debug\net8.0-windows\ControleTempoFilhosNET.runtimeconfig.json
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\bin\Debug\net8.0-windows\ControleTempoFilhosNET.dll
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\bin\Debug\net8.0-windows\ControleTempoFilhosNET.pdb
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ControleTempoFilhosNET.Form1.resources
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ControleTempoFilhosNET.csproj.GenerateResource.cache
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ControleTempoFilhosNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ControleTempoFilhosNET.AssemblyInfoInputs.cache
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ControleTempoFilhosNET.AssemblyInfo.cs
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ControleTempoFilhosNET.csproj.CoreCompileInputs.cache
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ControleTempoFilhosNET.sourcelink.json
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ControleTempoFilhosNET.dll
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\refint\ControleTempoFilhosNET.dll
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ControleTempoFilhosNET.pdb
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ControleTempoFilhosNET.genruntimeconfig.cache
+C:\Dev\ControleTempoFilhos\ControleTempoFilhosNET\ControleTempoFilhosNET\obj\Debug\net8.0-windows\ref\ControleTempoFilhosNET.dll
